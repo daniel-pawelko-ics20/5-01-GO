@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// declaring main function
 func main() {
 	rand.Seed(time.Now().UnixNano())
 
